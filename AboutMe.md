@@ -1,9 +1,9 @@
 ## About Me
-<p>Name:</p>
-<p>Preferred Name:</p>
-<p>Grade Level:</p>
-<p>Email:</p>
-<p>Computer Science Courses Taken:</p>
-<p>Computer Science Interest Areas:</p>
-<p>After High School Plans:</p>
+<p>Name:      Igor</p> 
+<p>Preferred Name: Igor</p>
+<p>Grade Level:   12</p>
+<p>Email:   24IOlejniczak@adriansd.org</p>
+<p>Computer Science Courses Taken:  5</p>
+<p>Computer Science Interest Areas:   coding in scratch and c++</p>
+<p>After High School Plans: work/fortnite</p>
 
